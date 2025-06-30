@@ -14,7 +14,7 @@ To train, evaluate, and interpret tree-based models such as:
 
 ## 🛠 Tools Used
 
-- Python 🐍
+- Python 
 - Scikit-learn
 - Pandas, Numpy
 - Matplotlib, Seaborn
